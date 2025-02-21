@@ -41,7 +41,7 @@ const Services = () => {
             )}
             <div className="absolute z-10 p-5 top-[10%] left-1/2 flex w-[20rem] sm:w-[22rem] aspect-square border border-n-6 rounded-full -translate-x-1/2 scale:75 md:scale-100">
               <div className="absolute flex top-1/2 left-1/2 aspect-square m-auto border border-n-6 rounded-full -translate-x-1/2 -translate-y-1/2 opacity-50">
-                <div className="w-[3rem] sm:w-[6rem] aspect-square m-auto p-[0.2rem] bg-conic-gradient rounded-full items-center">
+                <div className="w-[6rem] aspect-square m-auto p-[0.2rem] bg-conic-gradient rounded-full items-center">
                   <div className="items-center justify-center w-[100%] h-[100%] bg-n-8 rounded-full">
                     {/* <img
                       src=""

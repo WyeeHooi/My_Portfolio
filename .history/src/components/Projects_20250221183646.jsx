@@ -1,4 +1,5 @@
 import { projects, baseUrl } from "../constants";
+import { resume } from "../assets";
 import Heading from "./Heading";
 import Section from "./Section";
 import Arrow from "../assets/svg/Arrow";
@@ -67,7 +68,7 @@ const Benefits = () => {
         </div>
 
         <div className="flex justify-center mt-12 md:mt-15 xl:mt-20">
-          <Button href={`${baseUrl}/WongHooiYeeResume.pdf`}>My Resume</Button>
+          <Button href={`${baseUrl}/`}>My Resume</Button>
         </div>
       </div>
     </Section>

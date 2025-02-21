@@ -34,14 +34,14 @@ const Hero = () => {
           </div>
           <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 grid grid-flow-row md:grid-flow-col">
 
-            <div className="grid-cols-12 lg:grid-cols-6 md:grid-cols-8 justify-items-center md:justify-items-end">
+            <div className="grid-cols-12 lg:grid-cols-6 md:grid-cols-8 md:justify-items-end">
               <h1 className="h1 mb-6 md:text-right">
-                Web Developer <span className="opacity-35 rotate-90 sm:rotate-0">|</span><br /><span className="text-color-5 h2">Turning Ideas into Reality</span>
+                Web Developer <span className="opacity-35 rotate-180">|</span><br /><span className="text-color-5 h2">Turning Ideas into Reality</span>
               </h1>
               <p className="body-1 max-w-3xl mx-auto mb-6 text-n-2 lg:mb-8 md:text-right">
                 Hi, I’m <span className="text-color-5 font-black">Hooi Yee</span>! I craft sleek, user-friendly websites that deliver seamless experiences.
               </p>
-              <div className="pt-5 "><Heading
+              <div className="items-end pt-5"><Heading
                 tag="Get started with Me"
               />
               </div>

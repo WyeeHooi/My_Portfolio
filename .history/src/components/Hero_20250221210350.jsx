@@ -34,7 +34,7 @@ const Hero = () => {
           </div>
           <div className="relative z-1 max-w-[62rem] mx-auto text-center mb-[3.875rem] md:mb-20 grid grid-flow-row md:grid-flow-col">
 
-            <div className="grid-cols-12 lg:grid-cols-6 md:grid-cols-8 justify-items-center md:justify-items-end">
+            <div className="grid-cols-12 lg:grid-cols-6 md:grid-cols-8 md:justify-items-end">
               <h1 className="h1 mb-6 md:text-right">
                 Web Developer <span className="opacity-35 rotate-90 sm:rotate-0">|</span><br /><span className="text-color-5 h2">Turning Ideas into Reality</span>
               </h1>
