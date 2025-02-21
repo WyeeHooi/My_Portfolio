@@ -1,5 +1,4 @@
-import { projects } from "../constants";
-import { resume } from "../assets";
+import { projects, resume } from "../constants";
 import Heading from "./Heading";
 import Section from "./Section";
 import Arrow from "../assets/svg/Arrow";

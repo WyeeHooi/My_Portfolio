@@ -62,7 +62,7 @@ import card4 from "./benefits/card-4.svg";
 import card5 from "./benefits/card-5.svg";
 import card6 from "./benefits/card-6.svg";
 
-import resume from "./WongHooiYeeResume.pdf"
+
 
 import lines from "./pricing/lines.svg";
 import stars from "./pricing/stars.svg";
@@ -98,14 +98,6 @@ import facebook from "./socials/facebook.svg";
 import instagram from "./socials/instagram.svg";
 import telegram from "./socials/telegram.svg";
 import twitter from "./socials/twitter.svg";
-
-import mockup1 from "./roadmap/babycareMockup.png";
-import mockup2 from "./roadmap/vibraMockup.png";
-import mockup3 from "./roadmap/ipfcmockup.png";
-import mockup4 from "./roadmap/ppcMockup.png";
-import mockup5 from "./roadmap/convoMockup.png";
-import mockup6 from "./roadmap/opendayMockup.png";
-import mockup7 from "./roadmap/ybbMockup.png";
 
 export {
   brainwave,
@@ -196,13 +188,4 @@ export {
   card4,
   card5,
   card6,
-  resume,
-  mockup1,
-  mockup2,
-  mockup3,
-  mockup4,
-  mockup5,
-  mockup6,
-  mockup7,
-
 };

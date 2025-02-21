@@ -78,7 +78,7 @@ export const navigation = [
   {
     id: "2",
     title: "Resume",
-    url: "/WongHooiYeeResume.pdf",
+    url: "./src/assets/WongHooiYeeResume.pdf",
   }
 ];
 
